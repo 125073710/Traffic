@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrafficService</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+   <string name="process_kernel_label">"Android操作系统"</string>
+   <string name="data_usage_uninstalled_apps">"已删除的应用"</string>
+   <string name="tether_settings_title_all">"网络共享与便携式热点"</string>
+</resources>
